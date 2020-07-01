@@ -88,6 +88,7 @@ partitionmanager
 #Calamares
 calamares
 carli-calamares-config
+grub
 
 #Software
 git
